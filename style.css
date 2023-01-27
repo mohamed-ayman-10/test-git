@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+p {
+  color: white;
+}
+
+body {
+  background-color: #000;
+  text-align: center;
+  padding: 200px 0 0;
+}
